@@ -1,6 +1,6 @@
 // PROBLEM NUMBER = 11 CONTAINER WITH MOST WATER
 
-class Solution {
+class Solution2 {
     public int maxArea(int[] height) {
         int left = 0;
         int right = height.length - 1;
